@@ -1,0 +1,38 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #9CDDE0;
+    color:#FFFFFF;
+    height: 5rem;
+    padding: 0.80rem;
+
+}
+ul{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    gap: 3rem;
+    
+    
+}
+main{
+    display: flexbox;
+    background-color: #13212b;
+    color:#FFFFFF;
+    height: 60rem;
+    padding: 0.80rem;
+    text-align: center;
+    
+
+}
+footer{
+    display: flex;
+    background: #3e868a;
+    color: #ffffff;
+    justify-content:center;
+    align-items: center;
+    
+}
+
